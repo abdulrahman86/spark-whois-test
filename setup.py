@@ -9,7 +9,7 @@ setuptools.setup(
     install_requires=[
         'future',
         'whois',
-        'pyspark==2.3.0',
+        'pyspark==2.3.2',
         'py4j==0.10.4',
     ],
     license='Creative Commons Attribution-Noncommercial-Share Alike license',
