@@ -1,0 +1,4 @@
+env/
+dist/
+python_whois_test.egg-info/
+__pycache__/
